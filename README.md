@@ -17,3 +17,6 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevequeBenjamin&show_icons=true&theme=radical)
+
