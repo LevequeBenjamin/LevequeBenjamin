@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/benjamin-lévêque-812992137/" title="LinkedIn Profile"><img width="22" src="https://github.com/LevequeBenjamin/LevequeBenjamin/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.codingame.com/profile/99d7fb5295e3dfe97ee9a1e7d0bc5e3a1022704" title="CodinGame Profile"><img width="22" src="https://github.com/LevequeBenjamin/LevequeBenjamin/blob/master/images/codingame.png"> CodinGame</a></code>
-  <code><a href="https://stackoverflow.com/users/15609772/benjamin" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/15609772/benjamin" title="Stack Overflow Profile"><img width="22" src="https://github.com/LevequeBenjamin/LevequeBenjamin/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
 <br>
