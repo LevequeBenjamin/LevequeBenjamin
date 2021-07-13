@@ -20,3 +20,4 @@ me.say_hi()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevequeBenjamin&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevequeBenjamin=compact)](https://github.com/LevequeBenjamin/github-readme-stats)
