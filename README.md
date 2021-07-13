@@ -7,7 +7,7 @@ class AppDeveloper:
 
     def __init__(self):
         self.name = "Lévêque Benjamin"
-        self.role = "Developpeur d'application"
+        self.role = "App developer"
         self.language_spoken = ["fr_FR", "en_US"]
 
     def say_hi(self):
